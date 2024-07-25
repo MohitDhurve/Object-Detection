@@ -1,1 +1,2 @@
-# Object-Detection
+# Important Note: 
+A folder named `dataset` must be introduced in the directory to train the model, the dataset used here is: https://drive.google.com/drive/folders/1q7vKchroDEg_mrYho5gW2HG5oSavY5Z4?usp=sharing
